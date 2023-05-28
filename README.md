@@ -1,1 +1,1 @@
-# chatApp
+# Blog app
