@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
 
 .hover-effect {
   background-color: transparent;
@@ -8,6 +10,8 @@
   font-size: 16px;
   margin: 4px 2px;
   transition: 0.3s;
+  font-family: 'Pangolin', cursive;
+  font-size: large;
 }
 
 
