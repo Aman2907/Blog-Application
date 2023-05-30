@@ -2,7 +2,7 @@ import express from 'express'
 import mongoose from 'mongoose'
 import router from "./routes/user-routes.js";
 import blogRouter from "./routes/bblog-routes.js";
-import cors from 'cors'
+import cors from 'cors';
 
   
   
