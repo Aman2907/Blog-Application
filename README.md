@@ -1,7 +1,7 @@
 #thinkNwrite is a web application through which user can write Blog or Article
 
 Main Feature - <br />
-    * &nbsp; &nbsp;  &nbsp;  New User have to Signup and then login. Existing user has to signin <br />
-    * 
-    *
-    *
+    *  New User have to Signup and then Login. Existing user has to Signin <br />
+    *  Write your own blog and add images of your own choice in the blog   <br />
+    *  Edit the blog by edit option and you can delete it <br />
+    *  Data is stored in Mongodb Atlas  <br />
