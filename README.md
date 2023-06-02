@@ -4,7 +4,8 @@
 
 ![1](https://github.com/Aman2907/Blog-Application/assets/74008888/b885db73-8e33-41f8-b37c-3de3e7bab6a4)
 
-
+![2](https://github.com/Aman2907/Blog-Application/assets/74008888/18149167-f42f-438a-9d27-c10bbb72d9a1)
+![4](https://github.com/Aman2907/Blog-Application/assets/74008888/39258a90-6ed0-42cc-8b1f-a638c724dad5)
 
 
 Main Feature - <br />
