@@ -1,7 +1,7 @@
 #thinkNwrite is a web application through which user can write Blog or Article
 
 Main Feature - <br />
-    * New User have to Signup and then login. Existing user has to signin <br />
+    *         New User have to Signup and then login. Existing user has to signin <br />
     * 
     *
     *
