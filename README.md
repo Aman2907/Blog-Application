@@ -1,4 +1,4 @@
-#thinkNwrite is a web application through which user can write Blog or Article.
+#thinkNwrite It's a web application through which users can write a Blog or Articles.
 
 ![1](https://github.com/Aman2907/Blog-Application/assets/74008888/b885db73-8e33-41f8-b37c-3de3e7bab6a4)
 
