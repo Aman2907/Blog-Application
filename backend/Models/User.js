@@ -15,8 +15,9 @@ const userSchema = new Schema({
   password: {
     type: String,
     required: true,
-    minlength: 6,
+    minlength: 8,
   },
+  
   blogs: [{ type: mongoose.Types.ObjectId, ref: "Blog", required: true }],
 });
 export default mongoose.model("User", userSchema);
