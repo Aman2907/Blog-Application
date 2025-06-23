@@ -8,7 +8,7 @@ Main Feature - <br />
     *  Edit the blog by edit option and you can delete it <br />
     *  Data is stored in Mongodb Atlas  <br /> 
 
-
+  
    
 
 ![2](https://github.com/Aman2907/Blog-Application/assets/74008888/18149167-f42f-438a-9d27-c10bbb72d9a1)
