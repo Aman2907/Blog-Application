@@ -1,4 +1,4 @@
-✍️ thinkNwrite — Blog & Article Writing Web App
+<b>✍️ thinkNwrite — Blog & Article Writing Web App
 
 ![1](https://github.com/Aman2907/Blog-Application/assets/74008888/b885db73-8e33-41f8-b37c-3de3e7bab6a4)
 
@@ -31,7 +31,10 @@ Modify your blogs anytime or remove them when needed.
 
 All blog data is stored securely using MongoDB Atlas.
   
-   
+   | Signup & Login                                                                                          | Create Blog                                                                                             | Blog Dashboard                                                                                          |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ![2](https://github.com/Aman2907/Blog-Application/assets/74008888/18149167-f42f-438a-9d27-c10bbb72d9a1) | ![4](https://github.com/Aman2907/Blog-Application/assets/74008888/39258a90-6ed0-42cc-8b1f-a638c724dad5) | ![3](https://github.com/Aman2907/Blog-Application/assets/74008888/73469bc4-bfae-47f7-a87f-8c961f790021) |
+
 
 ![2](https://github.com/Aman2907/Blog-Application/assets/74008888/18149167-f42f-438a-9d27-c10bbb72d9a1)
 ![4](https://github.com/Aman2907/Blog-Application/assets/74008888/39258a90-6ed0-42cc-8b1f-a638c724dad5)
