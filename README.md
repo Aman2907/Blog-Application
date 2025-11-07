@@ -2,7 +2,7 @@
 
 
 ![1](https://github.com/Aman2907/Blog-Application/assets/74008888/b885db73-8e33-41f8-b37c-3de3e7bab6a4)
-
+  
 🌟 Overview
 thinkNwrite is a modern web application designed for writers, bloggers, and creators. It allows users to publish rich, image-supported blogs effortlessly. Whether you’re journaling personal thoughts or publishing professional articles, this platform has you covered.
 
