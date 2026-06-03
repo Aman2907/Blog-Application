@@ -41,7 +41,7 @@ Main Feature - <br />
 | ![5](https://github.com/Aman2907/Blog-Application/assets/74008888/483e1109-919f-4bcc-8f09-ed8113ded790) | ![6](https://github.com/Aman2907/Blog-Application/assets/74008888/313764d7-9929-4518-95b0-c08c9ff5390a) | ![8](https://github.com/Aman2907/Blog-Application/assets/74008888/b9b8456d-2ed8-474e-bf26-1d7225f5bfdd) |
 
 ⚙️ Tech Stack
-*Frontend: HTML, CSS, JavaScript, React.js
+*Frontend:HTML, CSS, JavaScript, React.js
 
 *Backend: Node.js, Express.js
 
