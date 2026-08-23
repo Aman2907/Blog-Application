@@ -11,9 +11,6 @@ Main Feature - <br />
     *  Edit the blog by edit option and you can delete it <br />
     *  Data is stored in Mongodb Atlas  <br /> 
 
-
-
-
     
 
 🔑 Key Features
